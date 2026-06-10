@@ -1,0 +1,11 @@
+Prompt:
+Write a 2d graphics editor using * and _.
+
+Response:
+Suggested creating a menu-driven C program using a 2D character array...
+
+Prompt:
+Should I write this all in a single prgm
+
+Response:
+Suggested using a single main.c file...
