@@ -46,16 +46,3 @@ Help me test and debug the project.
 
 Response:
 Provided help with compiling, testing, debugging errors, and validating project features.
-Prompt 6:
-How can I test whether rectangle, line, circle, triangle, add, delete, and modify functions are working correctly?
-
-Response:
-Suggested testing each feature individually through menu options and checking whether the picture updates correctly.
-
----
-
-Prompt 7:
-How can I fix compilation and runtime errors in the program?
-
-Response:
-Provided debugging guidance for compilation errors, file saving issues, function errors, and program testing.
